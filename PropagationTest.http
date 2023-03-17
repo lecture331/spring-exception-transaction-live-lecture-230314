@@ -1,0 +1,24 @@
+GET http://localhost:8080/test/required
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test/required-new
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test/mandatory
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test/never
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test/nested
+Accept: application/json
+
+###
